@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+$green: #7cb342;
+$lightDarkGreen: #4c830da2;
+$darkGreen: #4b830d;
+
+*:focus {
+  outline: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+html, body{
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+.navbar {
+  background-color: $green;
+  height: 60px;
+  width: 100%;
+  z-index: 15;
+  position: sticky;
+  top: 0;
+}
+
+.btn-info {
+  background-color: $darkGreen;
+  border-color: $darkGreen;
+  &:hover {
+    background-color: $lightDarkGreen;
+    border-color: $lightDarkGreen;
+  }
+}
+
+.error {
+  color: red;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.disabled {
+  display: none !important;
+}
+
+.property {
+  margin: 0.5em;
+  -webkit-box-shadow: 0px 0px 1px 1px rgba(230,230,230,1);
+  -moz-box-shadow: 0px 0px 1px 1px rgba(230,230,230,1);
+  box-shadow: 0px 0px 2px 2px rgba(230,230,230,1);  
+  border-radius: 5px;
+}
+
+.modal-content {
+  max-height: 95vh;
+  overflow-y: scroll;
+}
+
+.homeContainer{
+  top: 7vh;
+  width: 80vw;
+  margin: 0 auto;
+}
+.properties{
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-auto-rows: auto;
+}
+#map{
+  width: 100%;
+  height: 40vh;
+  z-index: 10;
+}

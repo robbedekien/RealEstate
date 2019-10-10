@@ -1,0 +1,20 @@
+{
+    "qdfesdfee574de": {
+        "firstName": "Robbe",
+        "name": "Dekien",
+        "email": "test@kea.dk",
+        "phone": "0496783548",
+        "role": "user",
+        "validated": 0,
+        "password": "$2y$10$snPtrnn9bSLeS5sy9oMkMuw\/sAnCrS.fM6RlGCjgD5sVX5h0URR7q"
+    },
+    "5d777e4b7e268": {
+        "firstName": "Robbe",
+        "name": "Dekien",
+        "email": "robbe.dekien@gmail.com",
+        "phone": "0497838825",
+        "role": "agent",
+        "validated": 1,
+        "password": "$2y$10$wtGgpQP3Sx62gy9UCHrUFuagOnGpz.wZEIKCoRTLuBjE\/9KHzMx\/O"
+    }
+}

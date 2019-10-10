@@ -1,0 +1,207 @@
+{
+    "5d7a0cd61c03d": {
+        "street": "Fredericiagade",
+        "number": "58",
+        "postal": "1310",
+        "city": "Copenhagen",
+        "price": "590000",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "size": "160",
+        "latitude": "55.686503",
+        "longtitude": "12.587535",
+        "poster": "5d777e4b7e268",
+        "images": [
+            "5d7a0cd615c21.webp",
+            "5d7a0cd61623c.webp",
+            "5d7a0cd616a4b.webp",
+            "5d7a0cd6172f2.webp",
+            "5d7a0cd617995.webp",
+            "5d7a0cd6180ff.webp",
+            "5d7a0cd618bbc.webp",
+            "5d7a0cd61943a.webp",
+            "5d7a0cd61a156.webp",
+            "5d7a0cd61a920.webp"
+        ]
+    },
+    "5d7a0d3c2add1": {
+        "street": "Kartoffelraekkerne",
+        "number": "5",
+        "postal": "2400",
+        "city": "Copenhagen",
+        "price": "123480",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "size": "80",
+        "latitude": "55.692374",
+        "longtitude": "12.577040",
+        "poster": "5d777e4b7e268",
+        "images": [
+            "5d7a0d3c26c55.webp",
+            "5d7a0d3c27206.webp",
+            "5d7a0d3c2816c.webp",
+            "5d7a0d3c28705.webp",
+            "5d7a0d3c28c1f.webp",
+            "5d7a0d3c28ffd.webp",
+            "5d7a0d3c294b7.webp",
+            "5d7a0d3c29c69.webp",
+            "5d7a0d3c2a3a4.webp"
+        ]
+    },
+    "5d7a0dac15d30": {
+        "street": "Gothersgade",
+        "number": "135",
+        "postal": "1123",
+        "city": "Copenhagen",
+        "price": "246812",
+        "bedrooms": "20",
+        "bathrooms": "1",
+        "size": "95000",
+        "latitude": "55.685070",
+        "longtitude": "12.571699",
+        "poster": "5d777e4b7e268",
+        "images": [
+            "5d7a0dac11552.webp",
+            "5d7a0dac11bd6.webp",
+            "5d7a0dac127fd.webp",
+            "5d7a0dac13018.webp",
+            "5d7a0dac13d37.webp",
+            "5d7a0dac144b7.webp",
+            "5d7a0dac14c4e.webp",
+            "5d7a0dac15359.webp"
+        ]
+    },
+    "5d7a0ebe3aec2": {
+        "street": "Dortheavej",
+        "number": "17",
+        "postal": "2400",
+        "city": "Copenhagen",
+        "price": "1648260",
+        "bedrooms": "9",
+        "bathrooms": "4",
+        "size": "230",
+        "latitude": "55.707822",
+        "longtitude": "12.528209",
+        "poster": "5d777e4b7e268",
+        "images": [
+            "5d7a0ebe381e0.webp",
+            "5d7a0ebe38880.webp",
+            "5d7a0ebe38f6f.webp",
+            "5d7a0ebe394db.webp",
+            "5d7a0ebe39a4a.webp",
+            "5d7a0ebe3a074.webp",
+            "5d7a0ebe3a76d.webp"
+        ]
+    },
+    "5d7a0f08a15c4": {
+        "street": "Osterbro",
+        "number": "66",
+        "postal": "2100",
+        "city": "Copenhagen",
+        "price": "468196",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "size": "180",
+        "latitude": "55.697937",
+        "longtitude": "12.566117",
+        "poster": "5d777e4b7e268",
+        "images": [
+            "5d7a0f089ef32.webp",
+            "5d7a0f089f508.webp",
+            "5d7a0f089fb79.webp",
+            "5d7a0f08a0198.webp",
+            "5d7a0f08a0733.webp",
+            "5d7a0f08a0d13.webp"
+        ]
+    },
+    "5d7a0f51c1d7a": {
+        "street": "Kobenhavn K",
+        "number": "96",
+        "postal": "2400",
+        "city": "Copenhagen",
+        "price": "432189",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "size": "159",
+        "latitude": "55.679520",
+        "longtitude": "12.569765",
+        "poster": "5d777e4b7e268",
+        "images": [
+            "5d7a0f51bfd19.webp",
+            "5d7a0f51c027d.webp",
+            "5d7a0f51c092b.webp",
+            "5d7a0f51c0eee.webp",
+            "5d7a0f51c149a.webp"
+        ]
+    },
+    "5d7a0f979b7f9": {
+        "street": "Radmandsgade",
+        "number": "22",
+        "postal": "2200",
+        "city": "Copenhagen",
+        "price": "345924",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "size": "80",
+        "latitude": "55.698854",
+        "longtitude": "12.549146",
+        "poster": "5d777e4b7e268",
+        "images": [
+            "5d7a0f9799fe8.webp",
+            "5d7a0f979a51f.webp",
+            "5d7a0f979aa64.webp",
+            "5d7a0f979af71.webp"
+        ]
+    },
+    "5d7a0fcc96746": {
+        "street": "Julius Bloms Gade",
+        "number": "10",
+        "postal": "2200",
+        "city": "Copenhagen",
+        "price": "126483",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "size": "90",
+        "latitude": "55.694471",
+        "longtitude": "12.545018",
+        "poster": "5d777e4b7e268",
+        "images": [
+            "5d7a0fcc951ed.webp",
+            "5d7a0fcc958a0.webp",
+            "5d7a0fcc95f20.webp"
+        ]
+    },
+    "5d7a10332786a": {
+        "street": "Sokvaesthuset",
+        "number": "30",
+        "postal": "2000",
+        "city": "Copenhagen",
+        "price": "521624",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "size": "140",
+        "latitude": "55.674831",
+        "longtitude": "12.595141",
+        "poster": "5d777e4b7e268",
+        "images": [
+            "5d7a103326c00.webp",
+            "5d7a103327197.webp"
+        ]
+    },
+    "5d7a106c38961": {
+        "street": "Kompagnistraede",
+        "number": "20",
+        "postal": "1208",
+        "city": "Copenhagen",
+        "price": "574898",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "size": "146",
+        "latitude": "55.676786",
+        "longtitude": "12.574188",
+        "poster": "5d777e4b7e268",
+        "images": [
+            "5d7a106c37fa2.webp"
+        ]
+    }
+}
